@@ -1,6 +1,7 @@
 public class TestClass {
 	//testing git commands
-	//adding another command in a branched stream
+	//this is a new comment to test a merge conflict
+	//additional line here
 	
 	public static void main(String[] args) {}
 }
